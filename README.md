@@ -4,7 +4,11 @@
 > Distill writing craft, authentic voices & author tones with AI.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/human-tone?style=social)](https://github.com/realchendahuang/human-tone)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/human-tone?style=social)](https://github.com/realchendahuang/human-tone/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/human-tone)](https://github.com/realchendahuang/human-tone/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/human-tone/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
